@@ -1,19 +1,31 @@
 ## Hi there 👋
 I'm Gonçalo Almeida — Principal Engineer at [Critical Software](https://criticalsoftware.com/en), currently focused on **MedTech, Pharma & Life Sciences**, with background in **Automotive** and **C++/systems engineering**.
 
-## 🔗 Connect
+## Connect
 - LinkedIn: https://www.linkedin.com/in/goncalomatosalmeida/
 - More links: https://linktr.ee/goncalomalmeida
 
-## 🚧 Currently working on
-*(Selected private & public projects – section intentionally left open)*
+## Currently working on
+- https://github.com/goncaloalmeida/BluetoothPulseOximeter
+- https://github.com/goncaloalmeida/escala
+- https://github.com/goncaloalmeida/surveillance-system
 
-## 🩺 Medical / Healthcare
+## Medical / Healthcare
 Projects, tools and references related to medical devices, health data and regulated environments.
 - https://github.com/OpenHealthForAll/open-health  
 - https://github.com/ecostech/viatom-ble  
 
-## 🚗 Automotive (previous background)
+## Technology & C++ (interesting references)
+General-purpose repositories I often recommend, revisit, or use as references.
+- https://github.com/wxWidgets/wxWidgets  
+- https://github.com/JakubVojvoda/design-patterns-cpp  
+- https://github.com/AnthonyCalandra/modern-cpp-features  
+- https://github.com/fffaraz/awesome-cpp  
+- https://github.com/bewuethr/stroustrup-ppp  
+- https://github.com/abseil/abseil-cpp
+- https://github.com/DeviceFarmer/stf
+
+## Automotive (previous background)
 Key technologies, middleware, tooling and experiments from my automotive engineering years.
 
 ### COVESA (SOME/IP, CommonAPI & tools)
@@ -39,22 +51,11 @@ Key technologies, middleware, tooling and experiments from my automotive enginee
 - https://github.com/MarcoLucas41/eb-corbos-safetyapps-platform-evaluation
 - https://github.com/rustfoundation/safety-critical-rust-consortium  
 
-## 🧠 Technology & C++ (interesting references)
-General-purpose repositories I often recommend, revisit, or use as references.
-- https://github.com/wxWidgets/wxWidgets  
-- https://github.com/JakubVojvoda/design-patterns-cpp  
-- https://github.com/AnthonyCalandra/modern-cpp-features  
-- https://github.com/fffaraz/awesome-cpp  
-- https://github.com/bewuethr/stroustrup-ppp  
-- https://github.com/abseil/abseil-cpp
-- https://github.com/DeviceFarmer/stf
-
-## ⚙️ Git config snippets
+## Git config snippets
 ```ini
 [user]
     name = Gonçalo Almeida
     email = ...
-
 [alias]
     st   = status
     br   = branch
@@ -62,10 +63,8 @@ General-purpose repositories I often recommend, revisit, or use as references.
     co   = checkout
     cm   = commit
     cma  = commit --amend
-
     rei  = rebase -i
     rec  = rebase --continue
     rea  = rebase --abort
-
     plog = log --graph --pretty='format:%C(red)%d%C(reset) %C(yellow)%h%C(reset) %ar %C(green)%aN%C(reset) %s'
 ``
