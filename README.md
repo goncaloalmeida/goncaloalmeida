@@ -2,7 +2,7 @@
 I'm Gonçalo Almeida — Principal Engineer at [Critical Software](https://criticalsoftware.com/en), currently focused on **MedTech, Pharma & Life Sciences**, with background in **Automotive** and **C++/systems engineering**.
 
 ## Connect
-- LinkedIn: https://www.linkedin.com/in/goncalomatosalmeida/ | - More links: https://linktr.ee/goncalomalmeida
+[LinkedIn](https://www.linkedin.com/in/goncalomatosalmeida) | [Direct Contact](https://linktr.ee/goncalomalmeida)
 
 ## Currently working on
 - https://github.com/goncaloalmeida/BluetoothPulseOximeter
@@ -13,7 +13,6 @@ I'm Gonçalo Almeida — Principal Engineer at [Critical Software](https://criti
 Projects, tools and references related to medical devices, health data and regulated environments.
 - [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health) – Open initiative promoting interoperability and open standards in healthcare systems.
 - [ecostech/viatom-ble](https://github.com/ecostech/viatom-ble) – Reverse‑engineered BLE protocol and tooling for Viatom / Checkme medical devices.
-- [rustfoundation/safety-critical-rust-consortium](https://github.com/rustfoundation/safety-critical-rust-consortium) – Cross‑industry effort to evaluate and promote Rust in safety‑critical systems, including medical devices.
 - [mdpnp/mdpnp](https://github.com/mdpnp/mdpnp) – MD PnP / OpenICE reference implementation for medical device interoperability (ICE standard).
 - [RespiraWorks/Ventilator](https://github.com/RespiraWorks/Ventilator) – End‑to‑end open‑source ICU ventilator project, including software, systems and regulatory artefacts.
 
@@ -50,6 +49,7 @@ Key technologies, middleware, tooling and experiments from my automotive enginee
 
 ### Safety / platforms
 - [eclipse-sdv](https://github.com/eclipse-sdv) – Eclipse Software‑Defined Vehicle (SDV) ecosystem and safety‑oriented middleware foundations.
+- [rustfoundation/safety-critical-rust-consortium](https://github.com/rustfoundation/safety-critical-rust-consortium) – Cross‑industry effort to evaluate and promote Rust in safety‑critical systems, including medical devices.
 
 ## Git config snippets
 ```ini
