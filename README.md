@@ -1,8 +1,6 @@
 ## Hi there 👋
 I'm Gonçalo Almeida — Principal Engineer at [Critical Software](https://criticalsoftware.com/en), currently focused on **MedTech, Pharma & Life Sciences**, with background in **Automotive** and **C++/systems engineering**.
-
-## Connect
-[LinkedIn](https://www.linkedin.com/in/goncalomatosalmeida) | [Direct Contact](https://linktr.ee/goncalomalmeida)
+Connect: [LinkedIn](https://www.linkedin.com/in/goncalomatosalmeida) | [Direct Contact](https://linktr.ee/goncalomalmeida)
 
 ## Currently working on
 - https://github.com/goncaloalmeida/BluetoothPulseOximeter
