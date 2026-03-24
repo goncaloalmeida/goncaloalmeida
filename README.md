@@ -15,16 +15,29 @@ Projects, tools and references related to medical devices, health data and regul
 - [ecostech/viatom-ble](https://github.com/ecostech/viatom-ble) – Reverse‑engineered BLE protocol and tooling for Viatom / Checkme medical devices.
 - [mdpnp/mdpnp](https://github.com/mdpnp/mdpnp) – MD PnP / OpenICE reference implementation for medical device interoperability (ICE standard).
 - [RespiraWorks/Ventilator](https://github.com/RespiraWorks/Ventilator) – End‑to‑end open‑source ICU ventilator project, including software, systems and regulatory artefacts.
+- [cornerstonejs/cornerstone3D](https://github.com/cornerstonejs/cornerstone3D) – Web-based medical image viewer with DICOM support.
 
-## Technology & C++ (interesting references)
-General-purpose repositories I often recommend, revisit, or use as references.
-- [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) – Mature cross‑platform C++ GUI framework.
-- [JakubVojvoda/design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp) – GoF design patterns implemented in modern C++.
-- [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) – Overview of modern C++ language and library features.
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) – Curated list of C++ libraries and resources.
-- [bewuethr/stroustrup-ppp](https://github.com/bewuethr/stroustrup-ppp) – Exercises and material from *Programming: Principles and Practice Using C++*.
-- [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) – Abseil common C++ libraries used at scale.
-- [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) – Open‑source device farm for Android testing and automation.
+## C++ Engineering
+### Software Design & Architecture
+- [JakubVojvoda/design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp) – GoF design patterns in modern C++.
+- [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) – Modern C++ language and library features overview.
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) – Curated C++ libraries and resources.
+- [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) – Google's common C++ libraries, production-tested at scale.
+- [bewuethr/stroustrup-ppp](https://github.com/bewuethr/stroustrup-ppp) – Exercises from *Programming: Principles and Practice Using C++*.
+### Data Access & Entity Patterns
+- [fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm) – Header-only C++ ORM for SQLite; entity mapping without raw SQL.
+- [rbock/sqlpp11](https://github.com/rbock/sqlpp11) – Type-safe embedded SQL for C++; compile-time query validation.
+- [nlohmann/json](https://github.com/nlohmann/json) – De facto standard JSON library for C++; essential for config, REST and data serialisation.
+- [google/protobuf](https://github.com/protocolbuffers/protobuf) – Protocol Buffers; structured data serialisation used in gRPC and medical device protocols.
+### HTML Scraping & Web Automation
+- [gumbo-parser/gumbo](https://github.com/google/gumbo-parser) – Google's C HTML5 parser; robust HTML scraping from C/C++ code.
+- [lexbor/lexbor](https://github.com/lexborisov/lexbor) – Fast, dependency-free C library for HTML parsing and DOM manipulation.
+- [curl/curl](https://github.com/curl/curl) – The standard HTTP client for C/C++; backbone of any scraping or API integration.
+- [python-requests/requests](https://github.com/psf/requests) – Python HTTP library; quick prototyping before moving scraping logic to C++.
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) – High-level Python web scraping framework; useful for rapid data extraction pipelines.
+### GUI & Tooling
+- [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) – Mature cross-platform C++ GUI framework.
+- [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) – Open-source Android device farm for testing and automation.
 
 ## Automotive
 Key technologies, middleware, tooling and experiments from my automotive engineering years.
