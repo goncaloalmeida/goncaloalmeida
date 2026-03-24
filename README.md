@@ -17,13 +17,13 @@ https://github.com/eclipse-sumo/sumo
 
 https://github.com/OpenHealthForAll/open-health
 
-https://github.com/goncaloalmeida/viatom-ble
+https://github.com/ecostech/viatom-ble
 
 https://github.com/ariexi/the-automotive-collection
 https://github.com/afondiel/car-cluster-hmi
 https://github.com/kianwasabi/DES02_PiRacer-Instrument-Cluster
 
-https://github.com/goncaloalmeida/Qt-HMI-Display-UI?tab=readme-ov-file
+https://github.com/cppqtdev/Qt-HMI-Display-UI
 
 https://github.com/GomaaMohamed/Yocto_Car_Dashboard
 
@@ -42,8 +42,6 @@ https://github.com/DeviceFarmer/stf
 https://github.com/MarcoLucas41/eb-corbos-safetyapps-platform-evaluation
 
 https://github.com/rustfoundation/safety-critical-rust-consortium
-
-
 
 Github configs:
 
