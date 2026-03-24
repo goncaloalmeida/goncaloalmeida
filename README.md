@@ -1,5 +1,24 @@
 ## Hi there 👋
 
+Automotive:
+https://github.com/COVESA/vsomeip
+
+https://github.com/kamelfakihh/vsomeip-docker-benchmark
+
+https://github.com/COVESA/capicxx-core-runtime
+https://github.com/COVESA/capicxx-someip-runtime
+https://github.com/COVESA/capicxx-dbus-runtime
+
+https://github.com/COVESA/capicxx-core-tools
+https://github.com/COVESA/capicxx-someip-tools
+https://github.com/COVESA/capicxx-dbus-tools
+
+
+https://github.com/kianwasabi/DES02_PiRacer-Instrument-Cluster
+
+
+
+
 <!--
 **goncaloalmeida/goncaloalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
