@@ -30,7 +30,6 @@ Projects, tools and references related to medical devices, health data and regul
 ### HTML Scraping & Web Automation
 - [gumbo-parser/gumbo](https://github.com/google/gumbo-parser) – Google's C HTML5 parser; robust HTML scraping from C/C++ code.
 - [lexbor/lexbor](https://github.com/lexborisov/lexbor) – Fast, dependency-free C library for HTML parsing and DOM manipulation.
-- [curl/curl](https://github.com/curl/curl) – The standard HTTP client for C/C++; backbone of any scraping or API integration.
 - [python-requests/requests](https://github.com/psf/requests) – Python HTTP library; quick prototyping before moving scraping logic to C++.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) – High-level Python web scraping framework; useful for rapid data extraction pipelines.
 ### GUI & Tooling
