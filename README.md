@@ -44,6 +44,24 @@ https://github.com/MarcoLucas41/eb-corbos-safetyapps-platform-evaluation
 https://github.com/rustfoundation/safety-critical-rust-consortium
 
 
+
+Github configs:
+
+[user]
+        email = ...
+        name = Gonçalo Almeida
+[alias]
+    st = status
+    br = branch
+    adu = add -u
+    rei = rebase -i
+    rec = rebase --continue
+    rea = rebase --abort
+    co = checkout
+    cm = commit
+    cma = commit --amend
+    plog = log --graph --pretty='format:%C(red)%d%C(reset) %C(yellow)%h%C(reset) %ar %C(green)%aN%C(reset) %s'
+
 <!--
 **goncaloalmeida/goncaloalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
