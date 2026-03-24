@@ -13,11 +13,13 @@ https://github.com/COVESA/capicxx-core-tools
 https://github.com/COVESA/capicxx-someip-tools
 https://github.com/COVESA/capicxx-dbus-tools
 
-
+https://github.com/ariexi/the-automotive-collection
+https://github.com/afondiel/car-cluster-hmi
 https://github.com/kianwasabi/DES02_PiRacer-Instrument-Cluster
 
+https://github.com/GomaaMohamed/Yocto_Car_Dashboard
 
-
+https://github.com/dev-guy/vsomeip-bazel
 
 <!--
 **goncaloalmeida/goncaloalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
