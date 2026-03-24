@@ -1,30 +1,25 @@
 ## Hi there 👋
 I'm Gonçalo Almeida — Principal Engineer at [Critical Software](https://criticalsoftware.com/en), currently focused on **MedTech, Pharma & Life Sciences**, with background in **Automotive** and **C++/systems engineering**.
 
----
+## 🔗 Connect
+- LinkedIn: https://www.linkedin.com/in/goncalomatosalmeida/
+- More links: https://linktr.ee/goncalomalmeida
 
 ## 🚧 Currently working on
 *(Selected private & public projects – section intentionally left open)*
 
----
-
 ## 🩺 Medical / Healthcare
 Projects, tools and references related to medical devices, health data and regulated environments.
-
 - https://github.com/OpenHealthForAll/open-health  
 - https://github.com/ecostech/viatom-ble  
-
----
 
 ## 🚗 Automotive (previous background)
 Key technologies, middleware, tooling and experiments from my automotive engineering years.
 
-### SOME/IP & COVESA
+### COVESA (SOME/IP, CommonAPI & tools)
 - https://github.com/COVESA/vsomeip  
 - https://github.com/kamelfakihh/vsomeip-docker-benchmark  
 - https://github.com/dev-guy/vsomeip-bazel  
-
-### CommonAPI / COVESA runtimes & tools
 - https://github.com/COVESA/capicxx-core-runtime  
 - https://github.com/COVESA/capicxx-someip-runtime  
 - https://github.com/COVESA/capicxx-dbus-runtime  
@@ -43,11 +38,9 @@ Key technologies, middleware, tooling and experiments from my automotive enginee
 ### Safety / platforms
 - https://github.com/MarcoLucas41/eb-corbos-safetyapps-platform-evaluation
 - https://github.com/rustfoundation/safety-critical-rust-consortium  
----
 
 ## 🧠 Technology & C++ (interesting references)
 General-purpose repositories I often recommend, revisit, or use as references.
-
 - https://github.com/wxWidgets/wxWidgets  
 - https://github.com/JakubVojvoda/design-patterns-cpp  
 - https://github.com/AnthonyCalandra/modern-cpp-features  
@@ -56,10 +49,7 @@ General-purpose repositories I often recommend, revisit, or use as references.
 - https://github.com/abseil/abseil-cpp
 - https://github.com/DeviceFarmer/stf
 
----
-
 ## ⚙️ Git config snippets
-
 ```ini
 [user]
     name = Gonçalo Almeida
