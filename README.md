@@ -3,9 +3,11 @@ I'm Gonçalo Almeida — Principal Engineer at [Critical Software](https://criti
 Connect: [LinkedIn](https://www.linkedin.com/in/goncalomatosalmeida) | [Linktree](https://linktr.ee/goncalomalmeida)
 
 ## Current Personal Projects
-- https://github.com/goncaloalmeida/BluetoothPulseOximeter
-- https://github.com/goncaloalmeida/escala
-- https://github.com/goncaloalmeida/surveillance-system
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [BluetoothPulseOximeter](https://github.com/goncaloalmeida/BluetoothPulseOximeter) | BLE pulse oximeter data acquisition and processing | C++, BLE |
+| [escala](https://github.com/goncaloalmeida/escala) | Healthcare staff scheduling tool | — |
+| [surveillance-system](https://github.com/goncaloalmeida/surveillance-system) | Computer vision surveillance with AI detection | C++, OpenCV |
 
 ## Medical / Healthcare
 Projects, tools and references related to medical devices, health data and regulated environments.
