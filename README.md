@@ -24,11 +24,9 @@ Projects, tools and references related to medical devices, health data and regul
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) – Curated C++ libraries and resources.
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) – Google's common C++ libraries, production-tested at scale.
 - [bewuethr/stroustrup-ppp](https://github.com/bewuethr/stroustrup-ppp) – Exercises from *Programming: Principles and Practice Using C++*.
-### Data Access & Entity Patterns
+### Data Access
 - [fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm) – Header-only C++ ORM for SQLite; entity mapping without raw SQL.
-- [rbock/sqlpp11](https://github.com/rbock/sqlpp11) – Type-safe embedded SQL for C++; compile-time query validation.
 - [nlohmann/json](https://github.com/nlohmann/json) – De facto standard JSON library for C++; essential for config, REST and data serialisation.
-- [google/protobuf](https://github.com/protocolbuffers/protobuf) – Protocol Buffers; structured data serialisation used in gRPC and medical device protocols.
 ### HTML Scraping & Web Automation
 - [gumbo-parser/gumbo](https://github.com/google/gumbo-parser) – Google's C HTML5 parser; robust HTML scraping from C/C++ code.
 - [lexbor/lexbor](https://github.com/lexborisov/lexbor) – Fast, dependency-free C library for HTML parsing and DOM manipulation.
