@@ -13,6 +13,12 @@ https://github.com/COVESA/capicxx-core-tools
 https://github.com/COVESA/capicxx-someip-tools
 https://github.com/COVESA/capicxx-dbus-tools
 
+https://github.com/eclipse-sumo/sumo
+
+https://github.com/OpenHealthForAll/open-health
+
+https://github.com/goncaloalmeida/viatom-ble
+
 https://github.com/ariexi/the-automotive-collection
 https://github.com/afondiel/car-cluster-hmi
 https://github.com/kianwasabi/DES02_PiRacer-Instrument-Cluster
@@ -23,12 +29,17 @@ https://github.com/GomaaMohamed/Yocto_Car_Dashboard
 
 https://github.com/dev-guy/vsomeip-bazel
 
+https://github.com/wxWidgets/wxWidgets
 
 https://github.com/JakubVojvoda/design-patterns-cpp
 https://github.com/AnthonyCalandra/modern-cpp-features
 https://github.com/fffaraz/awesome-cpp
 https://github.com/bewuethr/stroustrup-ppp
 https://github.com/abseil/abseil-cpp
+
+https://github.com/DeviceFarmer/stf
+
+https://github.com/MarcoLucas41/eb-corbos-safetyapps-platform-evaluation
 
 
 <!--
