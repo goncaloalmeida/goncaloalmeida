@@ -41,6 +41,8 @@ https://github.com/DeviceFarmer/stf
 
 https://github.com/MarcoLucas41/eb-corbos-safetyapps-platform-evaluation
 
+https://github.com/rustfoundation/safety-critical-rust-consortium
+
 
 <!--
 **goncaloalmeida/goncaloalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
