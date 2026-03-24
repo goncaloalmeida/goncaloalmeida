@@ -17,9 +17,17 @@ https://github.com/ariexi/the-automotive-collection
 https://github.com/afondiel/car-cluster-hmi
 https://github.com/kianwasabi/DES02_PiRacer-Instrument-Cluster
 
+https://github.com/goncaloalmeida/Qt-HMI-Display-UI?tab=readme-ov-file
+
 https://github.com/GomaaMohamed/Yocto_Car_Dashboard
 
 https://github.com/dev-guy/vsomeip-bazel
+
+
+https://github.com/JakubVojvoda/design-patterns-cpp
+https://github.com/AnthonyCalandra/modern-cpp-features
+https://github.com/fffaraz/awesome-cpp
+https://github.com/bewuethr/stroustrup-ppp
 
 <!--
 **goncaloalmeida/goncaloalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
