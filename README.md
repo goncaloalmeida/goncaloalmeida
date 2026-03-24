@@ -54,7 +54,7 @@ Key technologies, middleware, tooling and experiments from my automotive enginee
 ## Git config snippets
 ```ini
 [user]
-    name = Gonçalo Almeida
+    name = ...
     email = ...
 [alias]
     st   = status
