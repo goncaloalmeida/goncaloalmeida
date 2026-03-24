@@ -28,6 +28,8 @@ https://github.com/JakubVojvoda/design-patterns-cpp
 https://github.com/AnthonyCalandra/modern-cpp-features
 https://github.com/fffaraz/awesome-cpp
 https://github.com/bewuethr/stroustrup-ppp
+https://github.com/abseil/abseil-cpp
+
 
 <!--
 **goncaloalmeida/goncaloalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
