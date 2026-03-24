@@ -26,7 +26,7 @@ General-purpose repositories I often recommend, revisit, or use as references.
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) – Abseil common C++ libraries used at scale.
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) – Open‑source device farm for Android testing and automation.
 
-## Automotive (previous background)
+## Automotive
 Key technologies, middleware, tooling and experiments from my automotive engineering years.
 ### COVESA (SOME/IP, CommonAPI & tools)
 - [COVESA/vsomeip](https://github.com/COVESA/vsomeip) – Reference implementation of SOME/IP middleware widely used by OEMs and suppliers.
