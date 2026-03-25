@@ -3,11 +3,13 @@ Principal Engineer at [Critical Software](https://criticalsoftware.com/en), curr
 Connect: [LinkedIn](https://www.linkedin.com/in/goncalomatosalmeida) | [Linktree](https://linktr.ee/goncalomalmeida)
 
 ## Current Personal Projects
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [BluetoothPulseOximeter](https://github.com/goncaloalmeida/BluetoothPulseOximeter) | BLE pulse oximeter data acquisition and processing | C++, BLE |
-| [escala](https://github.com/goncaloalmeida/escala) | Healthcare staff scheduling tool | — |
-| [surveillance-system](https://github.com/goncaloalmeida/surveillance-system) | Computer vision surveillance with AI detection — YOLOv8 person detection, DeepFace recognition, multi-camera RTSP ingest and live web dashboard. Python · Flask · vibe coding. | ... |
+| Project | Description | Stack | Visibility |
+|---------|-------------|-------|-------|
+| [BluetoothPulseOximeter](https://github.com/goncaloalmeida/BluetoothPulseOximeter) | BLE pulse oximeter data acquisition and processing | C++, BLE | <img src="https://img.shields.io/badge/Private-6e7781?style=flat-square" alt="Private"> |
+| [escala](https://github.com/goncaloalmeida/escala) | Healthcare staff scheduling tool | — | — |
+| [surveillance-system](https://github.com/goncaloalmeida/surveillance-system) | Computer vision surveillance with AI detection, YOLOv8 person detection, DeepFace recognition, multi-camera RTSP ingest and live web dashboard. | Python, Flask, YOLOv8, DeepFace, OpenCV |
+<img src="https://img.shields.io/badge/Private-6e7781?style=flat-square" alt="Private">
+|
 
 ## Medical / Healthcare
 Projects, tools and references related to medical devices, health data and regulated environments.
