@@ -35,6 +35,8 @@ Projects, tools and references related to medical devices, health data and regul
 ### GUI & Tooling
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) – Mature cross-platform C++ GUI framework.
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) – Open-source Android device farm for testing and automation.
+###TBD 
+- https://github.com/keycloak/keycloak
 
 ## Automotive
 Key technologies, middleware, tooling and experiments from my automotive engineering years.
