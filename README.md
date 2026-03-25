@@ -18,25 +18,12 @@ Projects, tools and references related to medical devices, health data and regul
 - [cornerstonejs/cornerstone3D](https://github.com/cornerstonejs/cornerstone3D) – Web-based medical image viewer with DICOM support.
 
 ## C++ Engineering
-### Software Design & Architecture
 - [JakubVojvoda/design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp) – GoF design patterns in modern C++.
 - [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) – Modern C++ language and library features overview.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) – Curated C++ libraries and resources.
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) – Google's common C++ libraries, production-tested at scale.
 - [bewuethr/stroustrup-ppp](https://github.com/bewuethr/stroustrup-ppp) – Exercises from *Programming: Principles and Practice Using C++*.
-### Data Access
-- [fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm) – Header-only C++ ORM for SQLite; entity mapping without raw SQL.
-- [nlohmann/json](https://github.com/nlohmann/json) – De facto standard JSON library for C++; essential for config, REST and data serialisation.
-### HTML Scraping & Web Automation
-- [gumbo-parser/gumbo](https://github.com/google/gumbo-parser) – Google's C HTML5 parser; robust HTML scraping from C/C++ code.
-- [lexbor/lexbor](https://github.com/lexborisov/lexbor) – Fast, dependency-free C library for HTML parsing and DOM manipulation.
-- [python-requests/requests](https://github.com/psf/requests) – Python HTTP library; quick prototyping before moving scraping logic to C++.
-- [scrapy/scrapy](https://github.com/scrapy/scrapy) – High-level Python web scraping framework; useful for rapid data extraction pipelines.
-### GUI & Tooling
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) – Mature cross-platform C++ GUI framework.
-- [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) – Open-source Android device farm for testing and automation.
-###TBD 
-- https://github.com/keycloak/keycloak
 
 ## Automotive
 Key technologies, middleware, tooling and experiments from my automotive engineering years.
@@ -59,9 +46,12 @@ Key technologies, middleware, tooling and experiments from my automotive enginee
 - [cppqtdev/Qt-HMI-Display-UI](https://github.com/cppqtdev/Qt-HMI-Display-UI) – Qt‑based HMI display examples and UI concepts.
 - [GomaaMohamed/Yocto_Car_Dashboard](https://github.com/GomaaMohamed/Yocto_Car_Dashboard) – Embedded car dashboard built using Yocto.
 
-### Safety / platforms
+### Safety / AI / platforms / Tooling
 - [eclipse-sdv](https://github.com/eclipse-sdv) – Eclipse Software‑Defined Vehicle (SDV) ecosystem and safety‑oriented middleware foundations.
 - [rustfoundation/safety-critical-rust-consortium](https://github.com/rustfoundation/safety-critical-rust-consortium) – Cross‑industry effort to evaluate and promote Rust in safety‑critical systems, including medical devices.
+- [awesome-safety-critical-ai](https://github.com/JGalego/awesome-safety-critical-ai) – Curated list of resources, tools, standards and research on building AI systems for safety-critical domains — covering verification, certification, fault tolerance and responsible deployment across healthcare, aerospace, automotive and beyond.
+- [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) – Android device farm for testing and automation.
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) – Identity and Access Management solution with support for SSO, OAuth2, OpenID Connect and SAML
 
 ## Git config snippets
 ```ini
