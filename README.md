@@ -5,7 +5,7 @@ Connect: [LinkedIn](https://www.linkedin.com/in/goncalomatosalmeida) | [Linktree
 ## Current Personal Projects
 | Project | Description | Stack | Visibility |
 |---------|-------------|-------|-------|
-| [BluetoothPulseOximeter](https://github.com/goncaloalmeida/BluetoothPulseOximeter) | BLE pulse oximeter data acquisition and processing | tbd | 🟢 Public |
+| [BluetoothPulseOximeter](https://github.com/goncaloalmeida/BluetoothPulseOximeter) | BLE pulse oximeter data acquisition and processing | JavaScript | 🟢 Public |
 | [surveillance-system](https://github.com/goncaloalmeida/surveillance-system) | Computer vision surveillance with AI detection, YOLOv8 person detection, DeepFace recognition, multi-camera RTSP ingest and live web dashboard. | Python, Flask, YOLOv8, DeepFace, OpenCV | 🟢 Public |
 | [escala](https://github.com/goncaloalmeida/escala) | Healthcare staff scheduling tool | tbd | ⚪ Private |
 
