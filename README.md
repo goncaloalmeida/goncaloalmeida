@@ -7,7 +7,7 @@ Connect: [LinkedIn](https://www.linkedin.com/in/goncalomatosalmeida) | [Linktree
 |---------|-------------|-------|
 | [BluetoothPulseOximeter](https://github.com/goncaloalmeida/BluetoothPulseOximeter) | BLE pulse oximeter data acquisition and processing | C++, BLE |
 | [escala](https://github.com/goncaloalmeida/escala) | Healthcare staff scheduling tool | — |
-| [surveillance-system](https://github.com/goncaloalmeida/surveillance-system) | Computer vision surveillance with AI detection | C++, OpenCV |
+| [surveillance-system](https://github.com/goncaloalmeida/surveillance-system) | Computer vision surveillance with AI detection — YOLOv8 person detection, DeepFace recognition, multi-camera RTSP ingest and live web dashboard. Python · Flask · vibe coding. | ... |
 
 ## Medical / Healthcare
 Projects, tools and references related to medical devices, health data and regulated environments.
