@@ -24,7 +24,7 @@ Projects, tools and references related to medical devices, health data and regul
 * [LifestyleCorp/Medical-Transformers](https://github.com/LifestyleCorp/Medical-Transformers) – Transformer architectures for medical data analysis.
 * [UMEssen/Body-and-Organ-Analysis](https://github.com/UMEssen/Body-and-Organ-Analysis) – Automated anatomical segmentation and analysis.
 
-## Engineering & Safety
+## Engineering
 * [JakubVojvoda/design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp) – GoF patterns in modern C++.
 * [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) – C++ language/library features overview.
 * [rustfoundation/safety-critical-rust](https://github.com/rustfoundation/safety-critical-rust-consortium) – Rust in safety-critical systems.
