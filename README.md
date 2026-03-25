@@ -39,7 +39,7 @@ Projects, tools and references related to medical devices, health data and regul
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) – Identity and Access Management solution with support for SSO, OAuth2, OpenID Connect and SAML
  
 ## Automotive Heritage
-*Middleware and HMI experiments from my years in the industry.*
+Projects, tools, and references related to the automotive sector that I have followed or worked on throughout my years of experience in the industry.
 ### COVESA (SOME/IP & CommonAPI)
 * **vsomeip:** [Core Repo](https://github.com/COVESA/vsomeip) | [Docker Benchmark](https://github.com/kamelfakihh/vsomeip-docker-benchmark) | [Bazel Build](https://github.com/dev-guy/vsomeip-bazel)
 * **CommonAPI Runtimes:** [Core](https://github.com/COVESA/capicxx-core-runtime) | [SOME/IP](https://github.com/COVESA/capicxx-someip-runtime) | [D-Bus](https://github.com/COVESA/capicxx-dbus-runtime)
