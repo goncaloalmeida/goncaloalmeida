@@ -25,6 +25,13 @@ Projects, tools and references related to medical devices, health data and regul
 - [bewuethr/stroustrup-ppp](https://github.com/bewuethr/stroustrup-ppp) – Exercises from *Programming: Principles and Practice Using C++*.
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) – Mature cross-platform C++ GUI framework.
 
+## Safety / AI / Platforms / Tooling
+- [eclipse-sdv](https://github.com/eclipse-sdv) – Eclipse Software‑Defined Vehicle (SDV) ecosystem and safety‑oriented middleware foundations.
+- [rustfoundation/safety-critical-rust-consortium](https://github.com/rustfoundation/safety-critical-rust-consortium) – Cross‑industry effort to evaluate and promote Rust in safety‑critical systems, including medical devices.
+- [awesome-safety-critical-ai](https://github.com/JGalego/awesome-safety-critical-ai) – Curated list of resources, tools, standards and research on building AI systems for safety-critical domains — covering verification, certification, fault tolerance and responsible deployment across healthcare, aerospace, automotive and beyond.
+- [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) – Android device farm for testing and automation.
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) – Identity and Access Management solution with support for SSO, OAuth2, OpenID Connect and SAML
+ 
 ## Automotive
 Key technologies, middleware, tooling and experiments from my automotive engineering years.
 ### COVESA (SOME/IP, CommonAPI & tools)
@@ -45,13 +52,6 @@ Key technologies, middleware, tooling and experiments from my automotive enginee
 - [kianwasabi/DES02_PiRacer-Instrument-Cluster](https://github.com/kianwasabi/DES02_PiRacer-Instrument-Cluster) – Raspberry Pi‑based digital instrument cluster experiment.
 - [cppqtdev/Qt-HMI-Display-UI](https://github.com/cppqtdev/Qt-HMI-Display-UI) – Qt‑based HMI display examples and UI concepts.
 - [GomaaMohamed/Yocto_Car_Dashboard](https://github.com/GomaaMohamed/Yocto_Car_Dashboard) – Embedded car dashboard built using Yocto.
-
-### Safety / AI / platforms / Tooling
-- [eclipse-sdv](https://github.com/eclipse-sdv) – Eclipse Software‑Defined Vehicle (SDV) ecosystem and safety‑oriented middleware foundations.
-- [rustfoundation/safety-critical-rust-consortium](https://github.com/rustfoundation/safety-critical-rust-consortium) – Cross‑industry effort to evaluate and promote Rust in safety‑critical systems, including medical devices.
-- [awesome-safety-critical-ai](https://github.com/JGalego/awesome-safety-critical-ai) – Curated list of resources, tools, standards and research on building AI systems for safety-critical domains — covering verification, certification, fault tolerance and responsible deployment across healthcare, aerospace, automotive and beyond.
-- [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) – Android device farm for testing and automation.
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) – Identity and Access Management solution with support for SSO, OAuth2, OpenID Connect and SAML
 
 ## Git config snippets
 ```ini
