@@ -5,9 +5,9 @@ Connect: [LinkedIn](https://www.linkedin.com/in/goncalomatosalmeida) | [Linktree
 ## Current Personal Projects
 | Project | Description | Stack | Visibility |
 |---------|-------------|-------|-------|
-| [BluetoothPulseOximeter](https://github.com/goncaloalmeida/BluetoothPulseOximeter) | BLE pulse oximeter data acquisition and processing | JavaScript | 🟢 Public |
-| [surveillance-system](https://github.com/goncaloalmeida/surveillance-system) | Computer vision surveillance with AI detection, YOLOv8 person detection, DeepFace recognition, multi-camera RTSP ingest and live web dashboard. | Python, Flask, YOLOv8, DeepFace, OpenCV | 🟢 Public |
-| [PharmaRoster](https://github.com/goncaloalmeida/escala) | Healthcare workforce scheduling tool for pharmacy operations, combining visual multi-week planning, configurable staffing rules, automatic roster generation, constraint validation, and Excel-based reporting for multi-site teams. | Python, PyQt5, XlsxWriter, YAML | ⚪ Private |
+| [Bluetooth Pulse Oximeter](https://github.com/goncaloalmeida/BluetoothPulseOximeter) | BLE pulse oximeter data acquisition and processing | JavaScript | 🟢 Public |
+| [Surveillance System](https://github.com/goncaloalmeida/surveillance-system) | Computer vision surveillance with AI detection, YOLOv8 person detection, DeepFace recognition, multi-camera RTSP ingest and live web dashboard. | Python, Flask, YOLOv8, DeepFace, OpenCV | 🟢 Public |
+| [Pharma Roster](https://github.com/goncaloalmeida/escala) | Healthcare workforce scheduling tool for pharmacy operations, combining visual multi-week planning, configurable staffing rules, automatic roster generation, constraint validation, and Excel-based reporting for multi-site teams. | Python, PyQt5, XlsxWriter, YAML | ⚪ Private |
 
 ## Medical / Healthcare
 Projects, tools and references related to medical devices, health data and regulated environments.
