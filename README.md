@@ -38,7 +38,7 @@ Projects, tools and references related to medical devices, health data and regul
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) – Android device farm for testing and automation.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) – Identity and Access Management solution with support for SSO, OAuth2, OpenID Connect and SAML
  
-## Automotive Heritage
+## Automotive
 Projects, tools, and references related to the automotive sector that I have followed or worked on throughout my years of experience in the industry.
 ### COVESA (SOME/IP & CommonAPI)
 * **vsomeip:** [Core Repo](https://github.com/COVESA/vsomeip) | [Docker Benchmark](https://github.com/kamelfakihh/vsomeip-docker-benchmark) | [Bazel Build](https://github.com/dev-guy/vsomeip-bazel)
