@@ -39,12 +39,12 @@ Projects, tools and references related to medical devices, health data and regul
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) – Identity and Access Management solution with support for SSO, OAuth2, OpenID Connect and SAML
 
  ## Python / ML Libraries
-- [keras-team/keras](https://github.com/keras-team/keras) – High-level deep learning API built on top of TensorFlow, JAX and PyTorch — fast prototyping to production.
+- [keras-team/keras](https://github.com/keras-team/keras) – High-level deep learning API built on top of TensorFlow, JAX and PyTorch.
 - [scipy/scipy](https://github.com/scipy/scipy) – Fundamental algorithms for scientific computing: optimization, signal processing, statistics and more.
 - [numpy/numpy](https://github.com/numpy/numpy) – The foundational N-dimensional array library for numerical computing in Python.
 - [pallets/flask](https://github.com/pallets/flask) – Lightweight WSGI web framework for building APIs and web applications with minimal boilerplate.
 - [opencv/opencv-python](https://github.com/opencv/opencv-python) – Python bindings for OpenCV, the industry-standard library for real-time computer vision.
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) – YOLO11 and YOLOv8 object detection, segmentation and pose estimation — from research to deployment.
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) – YOLO11 and YOLOv8 object detection, segmentation and pose estimation.
 
 ## Automotive
 Projects, tools, and references related to the automotive sector that I have followed or worked on throughout my years of experience in the industry.
