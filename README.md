@@ -51,7 +51,7 @@ Projects, tools, and references related to the automotive sector that I have fol
 ### COVESA (SOME/IP & CommonAPI)
 * **vsomeip:** [Core Repo](https://github.com/COVESA/vsomeip) | [Docker Benchmark](https://github.com/kamelfakihh/vsomeip-docker-benchmark) | [Bazel Build](https://github.com/dev-guy/vsomeip-bazel)
 * **CommonAPI Runtimes:** [Core](https://github.com/COVESA/capicxx-core-runtime) | [SOME/IP](https://github.com/COVESA/capicxx-someip-runtime) | [D-Bus](https://github.com/COVESA/capicxx-dbus-runtime)
-* **CommonAPI Tools:** [Core Tools](https://github.com/COVESA/capicxx-core-tools) | [SOME/IP Tools](https://github.com/COVESA/capicxx-someip-tools)
+* **CommonAPI Tools:** [Core Tools](https://github.com/COVESA/capicxx-core-tools) | [SOME/IP Tools](https://github.com/COVESA/capicxx-someip-tools) | [D-Bus Tools](https://github.com/COVESA/capicxx-dbus-tools/)
 
 ### Simulation & Dashboards
 * [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) – Large‑scale traffic simulation platform.
