@@ -23,6 +23,11 @@ Projects, tools and references related to medical devices, health data and regul
 * [LifestyleCorp/Doctor-Chatbot](https://github.com/LifestyleCorp/Doctor-Chatbot) – AI agent for medical triaging and inquiries.
 * [LifestyleCorp/Medical-Transformers](https://github.com/LifestyleCorp/Medical-Transformers) – Transformer architectures for medical data analysis.
 * [UMEssen/Body-and-Organ-Analysis](https://github.com/UMEssen/Body-and-Organ-Analysis) – Automated anatomical segmentation and analysis.
+* [KitwareMedical](https://github.com/KitwareMedical) – Medical imaging toolkit org (ITK/VTK wrappers, DICOM, 3D visualization).
+* [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) – PyTorch framework for medical imaging AI: segmentation, detection, classification.
+* [sfikas/medical-imaging-datasets](https://github.com/sfikas/medical-imaging-datasets) – Curated list of public medical imaging datasets for research.
+* [BioGearsEngine](https://github.com/BioGearsEngine) – Open-source human physiology simulation engine for device testing and clinical training.
+* [synthetichealth/synthea](https://github.com/synthetichealth/synthea) – Synthetic patient record generator for research and testing.
 
 ## Engineering
 * [JakubVojvoda/design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp) – GoF patterns in modern C++.
@@ -37,6 +42,16 @@ Projects, tools and references related to medical devices, health data and regul
 - [awesome-safety-critical-ai](https://github.com/JGalego/awesome-safety-critical-ai) – Curated list of resources, tools, standards and research on building AI systems for safety-critical domains — covering verification, certification, fault tolerance and responsible deployment across healthcare, aerospace, automotive and beyond.
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) – Android device farm for testing and automation.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) – Identity and Access Management solution with support for SSO, OAuth2, OpenID Connect and SAML
+- [anthropics/skills](https://github.com/anthropics/skills) – Official Claude Code skills library.
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) – AGENTS.md spec — cross-tool agent context file standard (like CLAUDE.md for any LLM).
+- [mattpocock/skills](https://github.com/mattpocock/skills) – Real-world Claude Code skills from Matt Pocock.
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills/tree/main) – CLAUDE.md improvements and agent context patterns.
+- [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) – Claude skills tailored to medical research workflows.
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) – Pre-indexed code knowledge graph for LLM agents; fewer tokens, fewer tool calls, fully local.
+- [chopratejas/headroom](https://github.com/chopratejas/headroom) – Compress tool outputs, logs, and RAG chunks 60-95% before they reach the LLM.
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) – CLI proxy cutting LLM token consumption 60-90% on dev commands. Single Rust binary.
+- [JGalego/Bag-of-Tricks](https://github.com/JGalego/Bag-of-Tricks) – Practical LLM hacks: prompt patterns, token tricks, eval helpers.
+- [EmergenceAI/Emergence-World](https://github.com/EmergenceAI/Emergence-World) – Benchmark for emergent AI intelligence, beyond what standard metrics capture.
 
  ## Python / ML Libraries
 - [keras-team/keras](https://github.com/keras-team/keras) – High-level deep learning API built on top of TensorFlow, JAX and PyTorch.
